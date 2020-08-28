@@ -28,7 +28,7 @@
 					"value": 0.1
 				},
 				{
-					"amount": "2d6*100",
+					"amount": "2d6*10",
 					"name": "gold coin",
 					"description": "common gold coin",
 					"category": "currency",
@@ -63,7 +63,7 @@
 					"value": 0.1
 				},
 				{
-					"amount": "2d6*100",
+					"amount": "2d6*10",
 					"name": "gold coin",
 					"description": "common gold coin",
 					"category": "currency",
@@ -73,7 +73,7 @@
 				},
 				{
 					"amount": "2d6",
-					"name": "gem",
+					"name": "cracked gem",
 					"description": "cracked gemstone",
 					"category": "currency",
 					"mass": 0,
@@ -107,7 +107,7 @@
 					"value": 0.1
 				},
 				{
-					"amount": "2d6*100",
+					"amount": "2d6*10",
 					"name": "gold coin",
 					"description": "common gold coin",
 					"category": "currency",
@@ -117,9 +117,9 @@
 				},
 				{
 					"amount": "2d4",
-					"name": "art object",
+					"name": "novice art",
 					"description": "novice art piece",
-					"category": "lootCategory",
+					"category": "currency",
 					"mass": 1,
 					"volume": 1,
 					"value": 25
@@ -151,7 +151,7 @@
 					"value": 0.1
 				},
 				{
-					"amount": "2d6*100",
+					"amount": "2d6*10",
 					"name": "gold coin",
 					"description": "common gold coin",
 					"category": "currency",
@@ -161,7 +161,7 @@
 				},
 				{
 					"amount": "2d6",
-					"name": "gem",
+					"name": "flawed gem",
 					"description": "flawed gemstone",
 					"category": "currency",
 					"mass": 0,
@@ -195,7 +195,7 @@
 					"value": 0.1
 				},
 				{
-					"amount": "2d6*100",
+					"amount": "2d6*10",
 					"name": "gold coin",
 					"description": "common gold coin",
 					"category": "currency",
@@ -207,14 +207,14 @@
 					"amount": "d6",
 					"name": "common magic item",
 					"description": "item from Magic Item Table A",
-					"category": "lootCategory",
+					"category": "magical",
 					"mass": 0,
 					"volume": 0,
 					"value": 0
 				},
 				{
 					"amount": "2d6",
-					"name": "gem",
+					"name": "cracked gem",
 					"description": "cracked gemstone",
 					"category": "currency",
 					"mass": 0,
@@ -248,7 +248,7 @@
 					"value": 0.1
 				},
 				{
-					"amount": "2d6*100",
+					"amount": "2d6*10",
 					"name": "gold coin",
 					"description": "common gold coin",
 					"category": "currency",
@@ -260,16 +260,16 @@
 					"amount": "d6",
 					"name": "common magic item",
 					"description": "item from Magic Item Table A",
-					"category": "lootCategory",
+					"category": "magical",
 					"mass": 0,
 					"volume": 0,
 					"value": 0
 				},
 				{
 					"amount": "2d4",
-					"name": "art object",
+					"name": "novice art",
 					"description": "novice art piece",
-					"category": "lootCategory",
+					"category": "currency",
 					"mass": 1,
 					"volume": 1,
 					"value": 25
@@ -301,7 +301,7 @@
 					"value": 0.1
 				},
 				{
-					"amount": "2d6*100",
+					"amount": "2d6*10",
 					"name": "gold coin",
 					"description": "common gold coin",
 					"category": "currency",
@@ -313,14 +313,14 @@
 					"amount": "d6",
 					"name": "common magic item",
 					"description": "item from Magic Item Table A",
-					"category": "lootCategory",
+					"category": "magical",
 					"mass": 0,
 					"volume": 0,
 					"value": 0
 				},
 				{
 					"amount": "2d6",
-					"name": "gem",
+					"name": "flawed gem",
 					"description": "flawed gemstone",
 					"category": "currency",
 					"mass": 0,
@@ -354,7 +354,7 @@
 					"value": 0.1
 				},
 				{
-					"amount": "2d6*100",
+					"amount": "2d6*10",
 					"name": "gold coin",
 					"description": "common gold coin",
 					"category": "currency",
@@ -366,14 +366,14 @@
 					"amount": "d6",
 					"name": "less common magic item",
 					"description": "item from Magic Item Table B",
-					"category": "lootCategory",
+					"category": "magical",
 					"mass": 0,
 					"volume": 0,
 					"value": 0
 				},
 				{
 					"amount": "2d6",
-					"name": "gem",
+					"name": "cracked gem",
 					"description": "cracked gemstone",
 					"category": "currency",
 					"mass": 0,
@@ -407,7 +407,7 @@
 					"value": 0.1
 				},
 				{
-					"amount": "2d6*100",
+					"amount": "2d6*10",
 					"name": "gold coin",
 					"description": "common gold coin",
 					"category": "currency",
@@ -419,16 +419,16 @@
 					"amount": "d6",
 					"name": "less common magic item",
 					"description": "item from Magic Item Table B",
-					"category": "lootCategory",
+					"category": "magical",
 					"mass": 0,
 					"volume": 0,
 					"value": 0
 				},
 				{
 					"amount": "2d4",
-					"name": "art object",
+					"name": "novice art",
 					"description": "novice art piece",
-					"category": "lootCategory",
+					"category": "currency",
 					"mass": 1,
 					"volume": 1,
 					"value": 25
@@ -460,7 +460,7 @@
 					"value": 0.1
 				},
 				{
-					"amount": "2d6*100",
+					"amount": "2d6*10",
 					"name": "gold coin",
 					"description": "common gold coin",
 					"category": "currency",
@@ -472,14 +472,14 @@
 					"amount": "d6",
 					"name": "less common magic item",
 					"description": "item from Magic Item Table B",
-					"category": "lootCategory",
+					"category": "magical",
 					"mass": 0,
 					"volume": 0,
 					"value": 0
 				},
 				{
 					"amount": "2d6",
-					"name": "gem",
+					"name": "flawed gem",
 					"description": "flawed gemstone",
 					"category": "currency",
 					"mass": 0,
@@ -513,7 +513,7 @@
 					"value": 0.1
 				},
 				{
-					"amount": "2d6*100",
+					"amount": "2d6*10",
 					"name": "gold coin",
 					"description": "common gold coin",
 					"category": "currency",
@@ -525,14 +525,14 @@
 					"amount": "d6",
 					"name": "uncommon magic item",
 					"description": "item from Magic Item Table C",
-					"category": "lootCategory",
+					"category": "magical",
 					"mass": 0,
 					"volume": 0,
 					"value": 0
 				},
 				{
 					"amount": "2d6",
-					"name": "gem",
+					"name": "cracked gem",
 					"description": "cracked gemstone",
 					"category": "currency",
 					"mass": 0,
@@ -566,7 +566,7 @@
 					"value": 0.1
 				},
 				{
-					"amount": "2d6*100",
+					"amount": "2d6*10",
 					"name": "gold coin",
 					"description": "common gold coin",
 					"category": "currency",
@@ -578,16 +578,16 @@
 					"amount": "d6",
 					"name": "uncommon magic item",
 					"description": "item from Magic Item Table C",
-					"category": "lootCategory",
+					"category": "magical",
 					"mass": 0,
 					"volume": 0,
 					"value": 0
 				},
 				{
 					"amount": "2d4",
-					"name": "art object",
+					"name": "novice art",
 					"description": "novice art piece",
-					"category": "lootCategory",
+					"category": "currency",
 					"mass": 1,
 					"volume": 1,
 					"value": 25
@@ -619,7 +619,7 @@
 					"value": 0.1
 				},
 				{
-					"amount": "2d6*100",
+					"amount": "2d6*10",
 					"name": "gold coin",
 					"description": "common gold coin",
 					"category": "currency",
@@ -631,14 +631,14 @@
 					"amount": "d6",
 					"name": "uncommon magic item",
 					"description": "item from Magic Item Table C",
-					"category": "lootCategory",
+					"category": "magical",
 					"mass": 0,
 					"volume": 0,
 					"value": 0
 				},
 				{
 					"amount": "2d6",
-					"name": "gem",
+					"name": "flawed gem",
 					"description": "flawed gemstone",
 					"category": "currency",
 					"mass": 0,
@@ -672,7 +672,7 @@
 					"value": 0.1
 				},
 				{
-					"amount": "2d6*100",
+					"amount": "2d6*10",
 					"name": "gold coin",
 					"description": "common gold coin",
 					"category": "currency",
@@ -684,16 +684,16 @@
 					"amount": "d6",
 					"name": "rare magic item",
 					"description": "item from Magic Item Table F",
-					"category": "lootCategory",
+					"category": "magical",
 					"mass": 0,
 					"volume": 0,
 					"value": 0
 				},
 				{
 					"amount": "2d4",
-					"name": "art object",
+					"name": "novice art",
 					"description": "novice art piece",
-					"category": "lootCategory",
+					"category": "currency",
 					"mass": 1,
 					"volume": 1,
 					"value": 25
@@ -725,7 +725,7 @@
 					"value": 0.1
 				},
 				{
-					"amount": "2d6*100",
+					"amount": "2d6*10",
 					"name": "gold coin",
 					"description": "common gold coin",
 					"category": "currency",
@@ -737,14 +737,14 @@
 					"amount": "d6",
 					"name": "rare magic item",
 					"description": "item from Magic Item Table F",
-					"category": "lootCategory",
+					"category": "magical",
 					"mass": 0,
 					"volume": 0,
 					"value": 0
 				},
 				{
 					"amount": "2d6",
-					"name": "gem",
+					"name": "flawed gem",
 					"description": "flawed gemstone",
 					"category": "currency",
 					"mass": 0,
@@ -778,7 +778,7 @@
 					"value": 0.1
 				},
 				{
-					"amount": "2d6*100",
+					"amount": "2d6*10",
 					"name": "gold coin",
 					"description": "common gold coin",
 					"category": "currency",
@@ -790,16 +790,16 @@
 					"amount": "d6",
 					"name": "very rare magic item",
 					"description": "item from Magic Item Table G",
-					"category": "lootCategory",
+					"category": "magical",
 					"mass": 0,
 					"volume": 0,
 					"value": 0
 				},
 				{
 					"amount": "2d4",
-					"name": "art object",
+					"name": "novice art",
 					"description": "novice art piece",
-					"category": "lootCategory",
+					"category": "currency",
 					"mass": 1,
 					"volume": 1,
 					"value": 25
@@ -831,7 +831,7 @@
 					"value": 0.1
 				},
 				{
-					"amount": "2d6*100",
+					"amount": "2d6*10",
 					"name": "gold coin",
 					"description": "common gold coin",
 					"category": "currency",
@@ -843,14 +843,14 @@
 					"amount": "d6",
 					"name": "very rare magic item",
 					"description": "item from Magic Item Table G",
-					"category": "lootCategory",
+					"category": "magical",
 					"mass": 0,
 					"volume": 0,
 					"value": 0
 				},
 				{
 					"amount": "2d6",
-					"name": "gem",
+					"name": "flawed gem",
 					"description": "flawed gemstone",
 					"category": "currency",
 					"mass": 0,
