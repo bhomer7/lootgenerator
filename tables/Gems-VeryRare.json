@@ -1,0 +1,144 @@
+{
+    "id": "gem1000",
+    "name": "Very Rare Gems",
+    "description": "1000 gp gemstones",
+    "items": [
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "black opal",
+            "description": "translucent dark green with black mottling and golden flecks",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "black opal",
+                    "description": "translucent dark green with black mottling and golden flecks",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 1000
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "blue sapphire",
+            "description": "transparent blue-white to medium blue",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "blue sapphire",
+                    "description": "transparent blue-white to medium blue",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 1000
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "emerald",
+            "description": "transparent deep bright green",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "emerald",
+                    "description": "transparent deep bright green",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 1000
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "fire opal",
+            "description": "translucent fiery red",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "fire opal",
+                    "description": "translucent fiery red",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 1000
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "opal",
+            "description": "translucent pale blue with green and golden mottling",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "opal",
+                    "description": "translucent pale blue with green and golden mottling",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 1000
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "star ruby",
+            "description": "translucent ruby with white star-shaped center",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "star ruby",
+                    "description": "translucent ruby with white star-shaped center",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 1000
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "star sapphire",
+            "description": "translucent blue sapphire with white star-shaped center",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "star sapphire",
+                    "description": "translucent blue sapphire with white star-shaped center",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 1000
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "yellow sapphire",
+            "description": "translucent fiery yellow or yellow-green",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "yellow sapphire",
+                    "description": "translucent fiery yellow or yellow-green",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 1000
+                }
+            ]
+        },
+
+    ]
+}

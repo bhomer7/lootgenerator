@@ -1,0 +1,211 @@
+{
+    "id": "gem50",
+    "name": "Uncommon Gems",
+    "description": "50 gp gemstones",
+    "items": [
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "bloodstone",
+            "description": "opaque dark gray with red flecks",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "bloodstone",
+                    "description": "opaque dark gray with red flecks",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "carnelian",
+            "description": "opaque orange to red-brown",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "carnelian",
+                    "description": "opaque orange to red-brown",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "chalcedony",
+            "description": "opaque white",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "chalcedony",
+                    "description": "opaque white",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "chrysoprase",
+            "description": "translucent green",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "chrysoprase",
+                    "description": "translucent green",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "citrine",
+            "description": "transparent pale yellow-brown",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "citrine",
+                    "description": "transparent pale yellow-brown",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "jasper",
+            "description": "opaque blue, black, or brown",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "jasper",
+                    "description": "opaque blue, black, or brown",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "moonstone",
+            "description": "translucent white with pale blue glow",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "moonstone",
+                    "description": "translucent white with pale blue glow",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "onyx",
+            "description": "opaque bands of black and white, or pure black or white",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "onyx",
+                    "description": "opaque bands of black and white, or pure black or white",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "quartz",
+            "description": "transparent white, smoky gray, or yellow",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "quartz",
+                    "description": "transparent white, smoky gray, or yellow",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "sardonyx",
+            "description": "opaque bands of red and white",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "sardonyx",
+                    "description": "opaque bands of red and white",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "star rose quartz",
+            "description": "translucent rosy stone with white star-shaped center",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "star rose quartz",
+                    "description": "translucent rosy stone with white star-shaped center",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "zircon",
+            "description": "transparent pale blue-green",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "zircon",
+                    "description": "transparent pale blue-green",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 50
+                }
+            ]
+        }
+    ]
+}

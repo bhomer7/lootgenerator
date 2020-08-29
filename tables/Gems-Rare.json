@@ -1,0 +1,110 @@
+{
+    "id": "gem500",
+    "name": "Rare Gems",
+    "description": "50 gp gemstones",
+    "items": [
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "alexandrite",
+            "description": "transparent dark green",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "alexandrite",
+                    "description": "transparent dark green",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 500
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "aquamarine",
+            "description": "transparent pale blue-green",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "aquamarine",
+                    "description": "transparent pale blue-green",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 500
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "black pearl",
+            "description": "opaque pure black",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "black pearl",
+                    "description": "opaque pure black",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 500
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "blue spinel",
+            "description": "transparent deep blue",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "blue spinel",
+                    "description": "transparent deep blue",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 500
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "peridot",
+            "description": "transparent rich olive green",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "peridot",
+                    "description": "transparent rich olive green",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 500
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "topaz",
+            "description": "transparent golden yellow",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "topaz",
+                    "description": "transparent golden yellow",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 500
+                }
+            ]
+        },
+
+    ]
+}

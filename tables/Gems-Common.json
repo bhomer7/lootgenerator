@@ -1,0 +1,211 @@
+{
+    "id": "gem10",
+    "name": "Common Gems",
+    "description": "10 gp gemstones",
+    "items": [
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "azurite",
+            "description": "opaque mottled deep blue",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "azurite",
+                    "description": "opaque mottled deep blue",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 10
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "banded agate",
+            "description": "translucent striped brown, blue, white, or red",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "banded agate",
+                    "description": "translucent striped brown, blue, white, or red",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 10
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "blue quartz",
+            "description": "transparent pale blue",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "blue quartz",
+                    "description": "transparent pale blue",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 10
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "eye agate",
+            "description": "translucent circles of gray, white, brown, blue, or green",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "eye agate",
+                    "description": "translucent circles of gray, white, brown, blue, or green",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 10
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "hematite",
+            "description": "opaque gray-black",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "hematite",
+                    "description": "opaque gray-black",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 10
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "lapis lazuli",
+            "description": "opaque light and dark blue with yellow flecks",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "lapis lazuli",
+                    "description": "opaque light and dark blue with yellow flecks",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 10
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "malachite",
+            "description": "opaque striated light and dark green",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "malachite",
+                    "description": "opaque striated light and dark green",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 10
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "moss agate",
+            "description": "translucent pink or yellow-white with mossy gray or green markings",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "moss agate",
+                    "description": "translucent pink or yellow-white with mossy gray or green markings",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 10
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "obsidian",
+            "description": "opaque black",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "obsidian",
+                    "description": "opaque black",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 10
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "rhodochrosite",
+            "description": "opaque light pink",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "rhodochrosite",
+                    "description": "opaque light pink",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 10
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "tiger eye",
+            "description": "translucent brown with golden center",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "tiger eye",
+                    "description": "translucent brown with golden center",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 10
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "turquoise",
+            "description": "opaque light blue-green",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "turquoise",
+                    "description": "opaque light blue-green",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 10
+                }
+            ]
+        }
+    ]
+}

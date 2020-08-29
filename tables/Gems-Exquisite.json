@@ -1,0 +1,76 @@
+{
+    "id": "gem5000",
+    "name": "Exquisite Gems",
+    "description": "5000 gp gemstones",
+    "items": [
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "black sapphire",
+            "description": "translucent lustrous black with glowing highlights",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "black sapphire",
+                    "description": "translucent lustrous black with glowing highlights",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 5000
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "diamond",
+            "description": "transparent blue-white, canary, pink, brown, or blue",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "diamond",
+                    "description": "transparent blue-white, canary, pink, brown, or blue",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 5000
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "jacinth",
+            "description": "transparent fiery orange",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "jacinth",
+                    "description": "transparent fiery orange",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 5000
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "ruby",
+            "description": "transparent clear red to deep crimson",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "rub",
+                    "description": "transparent clear red to deep crimson",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 5000
+                }
+            ]
+        },
+
+    ]
+}

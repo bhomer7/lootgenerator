@@ -41,8 +41,8 @@
         {
             "weight": 10,
             "amount": "1",
-            "name": "cracked gems",
-            "description": "group of cracked gemstones",
+            "name": "common gems",
+            "description": "group of common gemstones",
             "items": [
                 {
                     "amount": "6d6*100",
@@ -73,8 +73,8 @@
                 },
                 {
                     "amount": "2d6",
-                    "name": "cracked gem",
-                    "description": "cracked gemstone",
+                    "name": "common gem",
+                    "description": "common gemstone",
                     "category": "currency",
                     "mass": 0,
                     "volume": 0,
@@ -129,8 +129,8 @@
         {
             "weight": 10,
             "amount": "1",
-            "name": "flawed gems",
-            "description": "group of flawed gemstones",
+            "name": "uncommon gems",
+            "description": "group of uncommon gemstones",
             "items": [
                 {
                     "amount": "6d6*100",
@@ -161,8 +161,8 @@
                 },
                 {
                     "amount": "2d6",
-                    "name": "flawed gem",
-                    "description": "flawed gemstone",
+                    "name": "uncommon gem",
+                    "description": "uncommon gemstone",
                     "category": "currency",
                     "mass": 0,
                     "volume": 0,
@@ -174,7 +174,7 @@
             "weight": 8,
             "amount": "1",
             "name": "common magic items",
-            "description": "common magic items with cracked gems",
+            "description": "common magic items with common gems",
             "items": [
                 {
                     "amount": "6d6*100",
@@ -214,8 +214,8 @@
                 },
                 {
                     "amount": "2d6",
-                    "name": "cracked gem",
-                    "description": "cracked gemstone",
+                    "name": "common gem",
+                    "description": "common gemstone",
                     "category": "currency",
                     "mass": 0,
                     "volume": 0,
@@ -280,7 +280,7 @@
             "weight": 8,
             "amount": "1",
             "name": "common magic items",
-            "description": "common magic items with flawed gems",
+            "description": "common magic items with uncommon gems",
             "items": [
                 {
                     "amount": "6d6*100",
@@ -320,8 +320,8 @@
                 },
                 {
                     "amount": "2d6",
-                    "name": "flawed gem",
-                    "description": "flawed gemstone",
+                    "name": "uncommon gem",
+                    "description": "uncommon gemstone",
                     "category": "currency",
                     "mass": 0,
                     "volume": 0,
@@ -333,7 +333,7 @@
             "weight": 5,
             "amount": "1",
             "name": "less common magic items",
-            "description": "less common magic items with cracked gems",
+            "description": "less common magic items with common gems",
             "items": [
                 {
                     "amount": "6d6*100",
@@ -373,8 +373,8 @@
                 },
                 {
                     "amount": "2d6",
-                    "name": "cracked gem",
-                    "description": "cracked gemstone",
+                    "name": "common gem",
+                    "description": "common gemstone",
                     "category": "currency",
                     "mass": 0,
                     "volume": 0,
@@ -439,7 +439,7 @@
             "weight": 5,
             "amount": "1",
             "name": "less common magic items",
-            "description": "less common magic items with flawed gems",
+            "description": "less common magic items with uncommon gems",
             "items": [
                 {
                     "amount": "6d6*100",
@@ -479,8 +479,8 @@
                 },
                 {
                     "amount": "2d6",
-                    "name": "flawed gem",
-                    "description": "flawed gemstone",
+                    "name": "uncommon gem",
+                    "description": "uncommon gemstone",
                     "category": "currency",
                     "mass": 0,
                     "volume": 0,
@@ -492,7 +492,7 @@
             "weight": 3,
             "amount": "1",
             "name": "uncommon magic items",
-            "description": "uncommon magic items with cracked gems",
+            "description": "uncommon magic items with common gems",
             "items": [
                 {
                     "amount": "6d6*100",
@@ -532,8 +532,8 @@
                 },
                 {
                     "amount": "2d6",
-                    "name": "cracked gem",
-                    "description": "cracked gemstone",
+                    "name": "common gem",
+                    "description": "common gemstone",
                     "category": "currency",
                     "mass": 0,
                     "volume": 0,
@@ -598,7 +598,7 @@
             "weight": 5,
             "amount": "1",
             "name": "uncommon magic items",
-            "description": "uncommon magic items with flawed gems",
+            "description": "uncommon magic items with uncommon gems",
             "items": [
                 {
                     "amount": "6d6*100",
@@ -638,8 +638,8 @@
                 },
                 {
                     "amount": "2d6",
-                    "name": "flawed gem",
-                    "description": "flawed gemstone",
+                    "name": "uncommon gem",
+                    "description": "uncommon gemstone",
                     "category": "currency",
                     "mass": 0,
                     "volume": 0,
@@ -704,7 +704,7 @@
             "weight": 5,
             "amount": "1",
             "name": "rare magic items",
-            "description": "rare magic items with flawed gems",
+            "description": "rare magic items with uncommon gems",
             "items": [
                 {
                     "amount": "6d6*100",
@@ -744,8 +744,8 @@
                 },
                 {
                     "amount": "2d6",
-                    "name": "flawed gem",
-                    "description": "flawed gemstone",
+                    "name": "uncommon gem",
+                    "description": "uncommon gemstone",
                     "category": "currency",
                     "mass": 0,
                     "volume": 0,
@@ -810,7 +810,7 @@
             "weight": 1,
             "amount": "1",
             "name": "very rare magic items",
-            "description": "very rare magic items with flawed gems",
+            "description": "very rare magic items with uncommon gems",
             "items": [
                 {
                     "amount": "6d6*100",
@@ -850,8 +850,8 @@
                 },
                 {
                     "amount": "2d6",
-                    "name": "flawed gem",
-                    "description": "flawed gemstone",
+                    "name": "uncommon gem",
+                    "description": "uncommon gemstone",
                     "category": "currency",
                     "mass": 0,
                     "volume": 0,
