@@ -1,863 +1,863 @@
 {
-	"id": "th04",
-	"name": "Treasure Hoard: 0 - 4",
-	"description": "Treasure hoards for characters up to level 4.",
-	"items": [
-		{
-			"weight": 6,
-			"amount": "1",
-			"name": "nothing",
-			"description": "you get nothing",
-			"items": [
-				{
-					"amount": "6d6*100",
-					"name": "copper coin",
-					"description": "common copper coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.01
-				},
-				{
-					"amount": "3d6*100",
-					"name": "silver coin",
-					"description": "common silver coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.1
-				},
-				{
-					"amount": "2d6*10",
-					"name": "gold coin",
-					"description": "common gold coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 1
-				}
-			]
-		},
-		{
-			"weight": 10,
-			"amount": "1",
-			"name": "cracked gems",
-			"description": "group of cracked gemstones",
-			"items": [
-				{
-					"amount": "6d6*100",
-					"name": "copper coin",
-					"description": "common copper coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.01
-				},
-				{
-					"amount": "3d6*100",
-					"name": "silver coin",
-					"description": "common silver coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.1
-				},
-				{
-					"amount": "2d6*10",
-					"name": "gold coin",
-					"description": "common gold coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 1
-				},
-				{
-					"amount": "2d6",
-					"name": "cracked gem",
-					"description": "cracked gemstone",
-					"category": "currency",
-					"mass": 0,
-					"volume": 0,
-					"value": 10
-				}
-			]
-		},
-		{
-			"weight": 10,
-			"amount": "1",
-			"name": "novice art objects",
-			"description": "group of novice art objects",
-			"items": [
-				{
-					"amount": "6d6*100",
-					"name": "copper coin",
-					"description": "common copper coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.01
-				},
-				{
-					"amount": "3d6*100",
-					"name": "silver coin",
-					"description": "common silver coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.1
-				},
-				{
-					"amount": "2d6*10",
-					"name": "gold coin",
-					"description": "common gold coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 1
-				},
-				{
-					"amount": "2d4",
-					"name": "novice art",
-					"description": "novice art piece",
-					"category": "currency",
-					"mass": 1,
-					"volume": 1,
-					"value": 25
-				}
-			]
-		},
-		{
-			"weight": 10,
-			"amount": "1",
-			"name": "flawed gems",
-			"description": "group of flawed gemstones",
-			"items": [
-				{
-					"amount": "6d6*100",
-					"name": "copper coin",
-					"description": "common copper coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.01
-				},
-				{
-					"amount": "3d6*100",
-					"name": "silver coin",
-					"description": "common silver coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.1
-				},
-				{
-					"amount": "2d6*10",
-					"name": "gold coin",
-					"description": "common gold coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 1
-				},
-				{
-					"amount": "2d6",
-					"name": "flawed gem",
-					"description": "flawed gemstone",
-					"category": "currency",
-					"mass": 0,
-					"volume": 0,
-					"value": 50
-				}
-			]
-		},
-		{
-			"weight": 8,
-			"amount": "1",
-			"name": "common magic items",
-			"description": "common magic items with cracked gems",
-			"items": [
-				{
-					"amount": "6d6*100",
-					"name": "copper coin",
-					"description": "common copper coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.01
-				},
-				{
-					"amount": "3d6*100",
-					"name": "silver coin",
-					"description": "common silver coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.1
-				},
-				{
-					"amount": "2d6*10",
-					"name": "gold coin",
-					"description": "common gold coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 1
-				},
-				{
-					"amount": "d6",
-					"name": "common magic item",
-					"description": "item from Magic Item Table A",
-					"category": "magical",
-					"mass": 0,
-					"volume": 0,
-					"value": 0
-				},
-				{
-					"amount": "2d6",
-					"name": "cracked gem",
-					"description": "cracked gemstone",
-					"category": "currency",
-					"mass": 0,
-					"volume": 0,
-					"value": 10
-				}
-			]
-		},
-		{
-			"weight": 8,
-			"amount": "1",
-			"name": "common magic items",
-			"description": "common magic items with novice art",
-			"items": [
-				{
-					"amount": "6d6*100",
-					"name": "copper coin",
-					"description": "common copper coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.01
-				},
-				{
-					"amount": "3d6*100",
-					"name": "silver coin",
-					"description": "common silver coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.1
-				},
-				{
-					"amount": "2d6*10",
-					"name": "gold coin",
-					"description": "common gold coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 1
-				},
-				{
-					"amount": "d6",
-					"name": "common magic item",
-					"description": "item from Magic Item Table A",
-					"category": "magical",
-					"mass": 0,
-					"volume": 0,
-					"value": 0
-				},
-				{
-					"amount": "2d4",
-					"name": "novice art",
-					"description": "novice art piece",
-					"category": "currency",
-					"mass": 1,
-					"volume": 1,
-					"value": 25
-				}
-			]
-		},
-		{
-			"weight": 8,
-			"amount": "1",
-			"name": "common magic items",
-			"description": "common magic items with flawed gems",
-			"items": [
-				{
-					"amount": "6d6*100",
-					"name": "copper coin",
-					"description": "common copper coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.01
-				},
-				{
-					"amount": "3d6*100",
-					"name": "silver coin",
-					"description": "common silver coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.1
-				},
-				{
-					"amount": "2d6*10",
-					"name": "gold coin",
-					"description": "common gold coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 1
-				},
-				{
-					"amount": "d6",
-					"name": "common magic item",
-					"description": "item from Magic Item Table A",
-					"category": "magical",
-					"mass": 0,
-					"volume": 0,
-					"value": 0
-				},
-				{
-					"amount": "2d6",
-					"name": "flawed gem",
-					"description": "flawed gemstone",
-					"category": "currency",
-					"mass": 0,
-					"volume": 0,
-					"value": 50
-				}
-			]
-		},
-		{
-			"weight": 5,
-			"amount": "1",
-			"name": "less common magic items",
-			"description": "less common magic items with cracked gems",
-			"items": [
-				{
-					"amount": "6d6*100",
-					"name": "copper coin",
-					"description": "common copper coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.01
-				},
-				{
-					"amount": "3d6*100",
-					"name": "silver coin",
-					"description": "common silver coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.1
-				},
-				{
-					"amount": "2d6*10",
-					"name": "gold coin",
-					"description": "common gold coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 1
-				},
-				{
-					"amount": "d6",
-					"name": "less common magic item",
-					"description": "item from Magic Item Table B",
-					"category": "magical",
-					"mass": 0,
-					"volume": 0,
-					"value": 0
-				},
-				{
-					"amount": "2d6",
-					"name": "cracked gem",
-					"description": "cracked gemstone",
-					"category": "currency",
-					"mass": 0,
-					"volume": 0,
-					"value": 10
-				}
-			]
-		},
-		{
-			"weight": 5,
-			"amount": "1",
-			"name": "less common magic items",
-			"description": "less common magic items with novice art",
-			"items": [
-				{
-					"amount": "6d6*100",
-					"name": "copper coin",
-					"description": "common copper coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.01
-				},
-				{
-					"amount": "3d6*100",
-					"name": "silver coin",
-					"description": "common silver coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.1
-				},
-				{
-					"amount": "2d6*10",
-					"name": "gold coin",
-					"description": "common gold coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 1
-				},
-				{
-					"amount": "d6",
-					"name": "less common magic item",
-					"description": "item from Magic Item Table B",
-					"category": "magical",
-					"mass": 0,
-					"volume": 0,
-					"value": 0
-				},
-				{
-					"amount": "2d4",
-					"name": "novice art",
-					"description": "novice art piece",
-					"category": "currency",
-					"mass": 1,
-					"volume": 1,
-					"value": 25
-				}
-			]
-		},
-		{
-			"weight": 5,
-			"amount": "1",
-			"name": "less common magic items",
-			"description": "less common magic items with flawed gems",
-			"items": [
-				{
-					"amount": "6d6*100",
-					"name": "copper coin",
-					"description": "common copper coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.01
-				},
-				{
-					"amount": "3d6*100",
-					"name": "silver coin",
-					"description": "common silver coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.1
-				},
-				{
-					"amount": "2d6*10",
-					"name": "gold coin",
-					"description": "common gold coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 1
-				},
-				{
-					"amount": "d6",
-					"name": "less common magic item",
-					"description": "item from Magic Item Table B",
-					"category": "magical",
-					"mass": 0,
-					"volume": 0,
-					"value": 0
-				},
-				{
-					"amount": "2d6",
-					"name": "flawed gem",
-					"description": "flawed gemstone",
-					"category": "currency",
-					"mass": 0,
-					"volume": 0,
-					"value": 50
-				}
-			]
-		},
-		{
-			"weight": 3,
-			"amount": "1",
-			"name": "uncommon magic items",
-			"description": "uncommon magic items with cracked gems",
-			"items": [
-				{
-					"amount": "6d6*100",
-					"name": "copper coin",
-					"description": "common copper coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.01
-				},
-				{
-					"amount": "3d6*100",
-					"name": "silver coin",
-					"description": "common silver coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.1
-				},
-				{
-					"amount": "2d6*10",
-					"name": "gold coin",
-					"description": "common gold coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 1
-				},
-				{
-					"amount": "d6",
-					"name": "uncommon magic item",
-					"description": "item from Magic Item Table C",
-					"category": "magical",
-					"mass": 0,
-					"volume": 0,
-					"value": 0
-				},
-				{
-					"amount": "2d6",
-					"name": "cracked gem",
-					"description": "cracked gemstone",
-					"category": "currency",
-					"mass": 0,
-					"volume": 0,
-					"value": 10
-				}
-			]
-		},
-		{
-			"weight": 2,
-			"amount": "1",
-			"name": "uncommon magic items",
-			"description": "uncommon magic items with novice art",
-			"items": [
-				{
-					"amount": "6d6*100",
-					"name": "copper coin",
-					"description": "common copper coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.01
-				},
-				{
-					"amount": "3d6*100",
-					"name": "silver coin",
-					"description": "common silver coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.1
-				},
-				{
-					"amount": "2d6*10",
-					"name": "gold coin",
-					"description": "common gold coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 1
-				},
-				{
-					"amount": "d6",
-					"name": "uncommon magic item",
-					"description": "item from Magic Item Table C",
-					"category": "magical",
-					"mass": 0,
-					"volume": 0,
-					"value": 0
-				},
-				{
-					"amount": "2d4",
-					"name": "novice art",
-					"description": "novice art piece",
-					"category": "currency",
-					"mass": 1,
-					"volume": 1,
-					"value": 25
-				}
-			]
-		},
-		{
-			"weight": 5,
-			"amount": "1",
-			"name": "uncommon magic items",
-			"description": "uncommon magic items with flawed gems",
-			"items": [
-				{
-					"amount": "6d6*100",
-					"name": "copper coin",
-					"description": "common copper coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.01
-				},
-				{
-					"amount": "3d6*100",
-					"name": "silver coin",
-					"description": "common silver coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.1
-				},
-				{
-					"amount": "2d6*10",
-					"name": "gold coin",
-					"description": "common gold coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 1
-				},
-				{
-					"amount": "d6",
-					"name": "uncommon magic item",
-					"description": "item from Magic Item Table C",
-					"category": "magical",
-					"mass": 0,
-					"volume": 0,
-					"value": 0
-				},
-				{
-					"amount": "2d6",
-					"name": "flawed gem",
-					"description": "flawed gemstone",
-					"category": "currency",
-					"mass": 0,
-					"volume": 0,
-					"value": 50
-				}
-			]
-		},
-		{
-			"weight": 7,
-			"amount": "1",
-			"name": "rare magic items",
-			"description": "rare magic items with novice art",
-			"items": [
-				{
-					"amount": "6d6*100",
-					"name": "copper coin",
-					"description": "common copper coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.01
-				},
-				{
-					"amount": "3d6*100",
-					"name": "silver coin",
-					"description": "common silver coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.1
-				},
-				{
-					"amount": "2d6*10",
-					"name": "gold coin",
-					"description": "common gold coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 1
-				},
-				{
-					"amount": "d6",
-					"name": "rare magic item",
-					"description": "item from Magic Item Table F",
-					"category": "magical",
-					"mass": 0,
-					"volume": 0,
-					"value": 0
-				},
-				{
-					"amount": "2d4",
-					"name": "novice art",
-					"description": "novice art piece",
-					"category": "currency",
-					"mass": 1,
-					"volume": 1,
-					"value": 25
-				}
-			]
-		},
-		{
-			"weight": 5,
-			"amount": "1",
-			"name": "rare magic items",
-			"description": "rare magic items with flawed gems",
-			"items": [
-				{
-					"amount": "6d6*100",
-					"name": "copper coin",
-					"description": "common copper coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.01
-				},
-				{
-					"amount": "3d6*100",
-					"name": "silver coin",
-					"description": "common silver coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.1
-				},
-				{
-					"amount": "2d6*10",
-					"name": "gold coin",
-					"description": "common gold coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 1
-				},
-				{
-					"amount": "d6",
-					"name": "rare magic item",
-					"description": "item from Magic Item Table F",
-					"category": "magical",
-					"mass": 0,
-					"volume": 0,
-					"value": 0
-				},
-				{
-					"amount": "2d6",
-					"name": "flawed gem",
-					"description": "flawed gemstone",
-					"category": "currency",
-					"mass": 0,
-					"volume": 0,
-					"value": 50
-				}
-			]
-		},
-		{
-			"weight": 2,
-			"amount": "1",
-			"name": "very rare magic items",
-			"description": "very rare magic items with novice art",
-			"items": [
-				{
-					"amount": "6d6*100",
-					"name": "copper coin",
-					"description": "common copper coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.01
-				},
-				{
-					"amount": "3d6*100",
-					"name": "silver coin",
-					"description": "common silver coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.1
-				},
-				{
-					"amount": "2d6*10",
-					"name": "gold coin",
-					"description": "common gold coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 1
-				},
-				{
-					"amount": "d6",
-					"name": "very rare magic item",
-					"description": "item from Magic Item Table G",
-					"category": "magical",
-					"mass": 0,
-					"volume": 0,
-					"value": 0
-				},
-				{
-					"amount": "2d4",
-					"name": "novice art",
-					"description": "novice art piece",
-					"category": "currency",
-					"mass": 1,
-					"volume": 1,
-					"value": 25
-				}
-			]
-		},
-		{
-			"weight": 1,
-			"amount": "1",
-			"name": "very rare magic items",
-			"description": "very rare magic items with flawed gems",
-			"items": [
-				{
-					"amount": "6d6*100",
-					"name": "copper coin",
-					"description": "common copper coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.01
-				},
-				{
-					"amount": "3d6*100",
-					"name": "silver coin",
-					"description": "common silver coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 0.1
-				},
-				{
-					"amount": "2d6*10",
-					"name": "gold coin",
-					"description": "common gold coin",
-					"category": "currency",
-					"mass": 0.02,
-					"volume": 0,
-					"value": 1
-				},
-				{
-					"amount": "d6",
-					"name": "very rare magic item",
-					"description": "item from Magic Item Table G",
-					"category": "magical",
-					"mass": 0,
-					"volume": 0,
-					"value": 0
-				},
-				{
-					"amount": "2d6",
-					"name": "flawed gem",
-					"description": "flawed gemstone",
-					"category": "currency",
-					"mass": 0,
-					"volume": 0,
-					"value": 50
-				}
-			]
-		}
-	]
+    "id": "th04",
+    "name": "Treasure Hoard: 0 - 4",
+    "description": "Treasure hoards for characters up to level 4.",
+    "items": [
+        {
+            "weight": 6,
+            "amount": "1",
+            "name": "nothing",
+            "description": "you get nothing",
+            "items": [
+                {
+                    "amount": "6d6*100",
+                    "name": "copper coin",
+                    "description": "common copper coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.01
+                },
+                {
+                    "amount": "3d6*100",
+                    "name": "silver coin",
+                    "description": "common silver coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.1
+                },
+                {
+                    "amount": "2d6*10",
+                    "name": "gold coin",
+                    "description": "common gold coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "weight": 10,
+            "amount": "1",
+            "name": "cracked gems",
+            "description": "group of cracked gemstones",
+            "items": [
+                {
+                    "amount": "6d6*100",
+                    "name": "copper coin",
+                    "description": "common copper coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.01
+                },
+                {
+                    "amount": "3d6*100",
+                    "name": "silver coin",
+                    "description": "common silver coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.1
+                },
+                {
+                    "amount": "2d6*10",
+                    "name": "gold coin",
+                    "description": "common gold coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 1
+                },
+                {
+                    "amount": "2d6",
+                    "name": "cracked gem",
+                    "description": "cracked gemstone",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 10
+                }
+            ]
+        },
+        {
+            "weight": 10,
+            "amount": "1",
+            "name": "novice art objects",
+            "description": "group of novice art objects",
+            "items": [
+                {
+                    "amount": "6d6*100",
+                    "name": "copper coin",
+                    "description": "common copper coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.01
+                },
+                {
+                    "amount": "3d6*100",
+                    "name": "silver coin",
+                    "description": "common silver coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.1
+                },
+                {
+                    "amount": "2d6*10",
+                    "name": "gold coin",
+                    "description": "common gold coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 1
+                },
+                {
+                    "amount": "2d4",
+                    "name": "novice art",
+                    "description": "novice art piece",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "weight": 10,
+            "amount": "1",
+            "name": "flawed gems",
+            "description": "group of flawed gemstones",
+            "items": [
+                {
+                    "amount": "6d6*100",
+                    "name": "copper coin",
+                    "description": "common copper coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.01
+                },
+                {
+                    "amount": "3d6*100",
+                    "name": "silver coin",
+                    "description": "common silver coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.1
+                },
+                {
+                    "amount": "2d6*10",
+                    "name": "gold coin",
+                    "description": "common gold coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 1
+                },
+                {
+                    "amount": "2d6",
+                    "name": "flawed gem",
+                    "description": "flawed gemstone",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "weight": 8,
+            "amount": "1",
+            "name": "common magic items",
+            "description": "common magic items with cracked gems",
+            "items": [
+                {
+                    "amount": "6d6*100",
+                    "name": "copper coin",
+                    "description": "common copper coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.01
+                },
+                {
+                    "amount": "3d6*100",
+                    "name": "silver coin",
+                    "description": "common silver coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.1
+                },
+                {
+                    "amount": "2d6*10",
+                    "name": "gold coin",
+                    "description": "common gold coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 1
+                },
+                {
+                    "amount": "d6",
+                    "name": "common magic item",
+                    "description": "item from Magic Item Table A",
+                    "category": "magical",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 0
+                },
+                {
+                    "amount": "2d6",
+                    "name": "cracked gem",
+                    "description": "cracked gemstone",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 10
+                }
+            ]
+        },
+        {
+            "weight": 8,
+            "amount": "1",
+            "name": "common magic items",
+            "description": "common magic items with novice art",
+            "items": [
+                {
+                    "amount": "6d6*100",
+                    "name": "copper coin",
+                    "description": "common copper coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.01
+                },
+                {
+                    "amount": "3d6*100",
+                    "name": "silver coin",
+                    "description": "common silver coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.1
+                },
+                {
+                    "amount": "2d6*10",
+                    "name": "gold coin",
+                    "description": "common gold coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 1
+                },
+                {
+                    "amount": "d6",
+                    "name": "common magic item",
+                    "description": "item from Magic Item Table A",
+                    "category": "magical",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 0
+                },
+                {
+                    "amount": "2d4",
+                    "name": "novice art",
+                    "description": "novice art piece",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "weight": 8,
+            "amount": "1",
+            "name": "common magic items",
+            "description": "common magic items with flawed gems",
+            "items": [
+                {
+                    "amount": "6d6*100",
+                    "name": "copper coin",
+                    "description": "common copper coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.01
+                },
+                {
+                    "amount": "3d6*100",
+                    "name": "silver coin",
+                    "description": "common silver coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.1
+                },
+                {
+                    "amount": "2d6*10",
+                    "name": "gold coin",
+                    "description": "common gold coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 1
+                },
+                {
+                    "amount": "d6",
+                    "name": "common magic item",
+                    "description": "item from Magic Item Table A",
+                    "category": "magical",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 0
+                },
+                {
+                    "amount": "2d6",
+                    "name": "flawed gem",
+                    "description": "flawed gemstone",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "less common magic items",
+            "description": "less common magic items with cracked gems",
+            "items": [
+                {
+                    "amount": "6d6*100",
+                    "name": "copper coin",
+                    "description": "common copper coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.01
+                },
+                {
+                    "amount": "3d6*100",
+                    "name": "silver coin",
+                    "description": "common silver coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.1
+                },
+                {
+                    "amount": "2d6*10",
+                    "name": "gold coin",
+                    "description": "common gold coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 1
+                },
+                {
+                    "amount": "d6",
+                    "name": "less common magic item",
+                    "description": "item from Magic Item Table B",
+                    "category": "magical",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 0
+                },
+                {
+                    "amount": "2d6",
+                    "name": "cracked gem",
+                    "description": "cracked gemstone",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 10
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "less common magic items",
+            "description": "less common magic items with novice art",
+            "items": [
+                {
+                    "amount": "6d6*100",
+                    "name": "copper coin",
+                    "description": "common copper coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.01
+                },
+                {
+                    "amount": "3d6*100",
+                    "name": "silver coin",
+                    "description": "common silver coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.1
+                },
+                {
+                    "amount": "2d6*10",
+                    "name": "gold coin",
+                    "description": "common gold coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 1
+                },
+                {
+                    "amount": "d6",
+                    "name": "less common magic item",
+                    "description": "item from Magic Item Table B",
+                    "category": "magical",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 0
+                },
+                {
+                    "amount": "2d4",
+                    "name": "novice art",
+                    "description": "novice art piece",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "less common magic items",
+            "description": "less common magic items with flawed gems",
+            "items": [
+                {
+                    "amount": "6d6*100",
+                    "name": "copper coin",
+                    "description": "common copper coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.01
+                },
+                {
+                    "amount": "3d6*100",
+                    "name": "silver coin",
+                    "description": "common silver coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.1
+                },
+                {
+                    "amount": "2d6*10",
+                    "name": "gold coin",
+                    "description": "common gold coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 1
+                },
+                {
+                    "amount": "d6",
+                    "name": "less common magic item",
+                    "description": "item from Magic Item Table B",
+                    "category": "magical",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 0
+                },
+                {
+                    "amount": "2d6",
+                    "name": "flawed gem",
+                    "description": "flawed gemstone",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "weight": 3,
+            "amount": "1",
+            "name": "uncommon magic items",
+            "description": "uncommon magic items with cracked gems",
+            "items": [
+                {
+                    "amount": "6d6*100",
+                    "name": "copper coin",
+                    "description": "common copper coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.01
+                },
+                {
+                    "amount": "3d6*100",
+                    "name": "silver coin",
+                    "description": "common silver coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.1
+                },
+                {
+                    "amount": "2d6*10",
+                    "name": "gold coin",
+                    "description": "common gold coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 1
+                },
+                {
+                    "amount": "d6",
+                    "name": "uncommon magic item",
+                    "description": "item from Magic Item Table C",
+                    "category": "magical",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 0
+                },
+                {
+                    "amount": "2d6",
+                    "name": "cracked gem",
+                    "description": "cracked gemstone",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 10
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "uncommon magic items",
+            "description": "uncommon magic items with novice art",
+            "items": [
+                {
+                    "amount": "6d6*100",
+                    "name": "copper coin",
+                    "description": "common copper coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.01
+                },
+                {
+                    "amount": "3d6*100",
+                    "name": "silver coin",
+                    "description": "common silver coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.1
+                },
+                {
+                    "amount": "2d6*10",
+                    "name": "gold coin",
+                    "description": "common gold coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 1
+                },
+                {
+                    "amount": "d6",
+                    "name": "uncommon magic item",
+                    "description": "item from Magic Item Table C",
+                    "category": "magical",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 0
+                },
+                {
+                    "amount": "2d4",
+                    "name": "novice art",
+                    "description": "novice art piece",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "uncommon magic items",
+            "description": "uncommon magic items with flawed gems",
+            "items": [
+                {
+                    "amount": "6d6*100",
+                    "name": "copper coin",
+                    "description": "common copper coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.01
+                },
+                {
+                    "amount": "3d6*100",
+                    "name": "silver coin",
+                    "description": "common silver coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.1
+                },
+                {
+                    "amount": "2d6*10",
+                    "name": "gold coin",
+                    "description": "common gold coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 1
+                },
+                {
+                    "amount": "d6",
+                    "name": "uncommon magic item",
+                    "description": "item from Magic Item Table C",
+                    "category": "magical",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 0
+                },
+                {
+                    "amount": "2d6",
+                    "name": "flawed gem",
+                    "description": "flawed gemstone",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "weight": 7,
+            "amount": "1",
+            "name": "rare magic items",
+            "description": "rare magic items with novice art",
+            "items": [
+                {
+                    "amount": "6d6*100",
+                    "name": "copper coin",
+                    "description": "common copper coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.01
+                },
+                {
+                    "amount": "3d6*100",
+                    "name": "silver coin",
+                    "description": "common silver coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.1
+                },
+                {
+                    "amount": "2d6*10",
+                    "name": "gold coin",
+                    "description": "common gold coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 1
+                },
+                {
+                    "amount": "d6",
+                    "name": "rare magic item",
+                    "description": "item from Magic Item Table F",
+                    "category": "magical",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 0
+                },
+                {
+                    "amount": "2d4",
+                    "name": "novice art",
+                    "description": "novice art piece",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "rare magic items",
+            "description": "rare magic items with flawed gems",
+            "items": [
+                {
+                    "amount": "6d6*100",
+                    "name": "copper coin",
+                    "description": "common copper coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.01
+                },
+                {
+                    "amount": "3d6*100",
+                    "name": "silver coin",
+                    "description": "common silver coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.1
+                },
+                {
+                    "amount": "2d6*10",
+                    "name": "gold coin",
+                    "description": "common gold coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 1
+                },
+                {
+                    "amount": "d6",
+                    "name": "rare magic item",
+                    "description": "item from Magic Item Table F",
+                    "category": "magical",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 0
+                },
+                {
+                    "amount": "2d6",
+                    "name": "flawed gem",
+                    "description": "flawed gemstone",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "very rare magic items",
+            "description": "very rare magic items with novice art",
+            "items": [
+                {
+                    "amount": "6d6*100",
+                    "name": "copper coin",
+                    "description": "common copper coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.01
+                },
+                {
+                    "amount": "3d6*100",
+                    "name": "silver coin",
+                    "description": "common silver coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.1
+                },
+                {
+                    "amount": "2d6*10",
+                    "name": "gold coin",
+                    "description": "common gold coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 1
+                },
+                {
+                    "amount": "d6",
+                    "name": "very rare magic item",
+                    "description": "item from Magic Item Table G",
+                    "category": "magical",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 0
+                },
+                {
+                    "amount": "2d4",
+                    "name": "novice art",
+                    "description": "novice art piece",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "very rare magic items",
+            "description": "very rare magic items with flawed gems",
+            "items": [
+                {
+                    "amount": "6d6*100",
+                    "name": "copper coin",
+                    "description": "common copper coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.01
+                },
+                {
+                    "amount": "3d6*100",
+                    "name": "silver coin",
+                    "description": "common silver coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 0.1
+                },
+                {
+                    "amount": "2d6*10",
+                    "name": "gold coin",
+                    "description": "common gold coin",
+                    "category": "currency",
+                    "mass": 0.02,
+                    "volume": 0,
+                    "value": 1
+                },
+                {
+                    "amount": "d6",
+                    "name": "very rare magic item",
+                    "description": "item from Magic Item Table G",
+                    "category": "magical",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 0
+                },
+                {
+                    "amount": "2d6",
+                    "name": "flawed gem",
+                    "description": "flawed gemstone",
+                    "category": "currency",
+                    "mass": 0,
+                    "volume": 0,
+                    "value": 50
+                }
+            ]
+        }
+    ]
 }

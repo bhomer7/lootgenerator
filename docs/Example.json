@@ -1,24 +1,24 @@
 {
-	"id": "tableId",
-	"name": "tableName",
-	"description": "tableDescription",
-	"items": [
-		{
-			"weight": 0,
-			"amount": "d6",
-			"name": "binName",
-			"description": "binDescription",
-			"items": [
-				{
-					"amount": "2-4",
-					"name": "itemName",
-					"description": "itemDescription",
-					"category": "lootCategory",
-					"mass": 1,
-					"volume": 1,
-					"value": 10
-				}
-			]
-		}
-	]
+    "id": "tableId",
+    "name": "tableName",
+    "description": "tableDescription",
+    "items": [
+        {
+            "weight": 0,
+            "amount": "d6",
+            "name": "binName",
+            "description": "binDescription",
+            "items": [
+                {
+                    "amount": "2-4",
+                    "name": "itemName",
+                    "description": "itemDescription",
+                    "category": "lootCategory",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 10
+                }
+            ]
+        }
+    ]
 }
