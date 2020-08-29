@@ -1,0 +1,177 @@
+{
+    "id": "art2500",
+    "name": "Fine Art",
+    "description": "2500 gp art objects",
+    "items": [
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "chain",
+            "description": "fine gold chain set with a fire opal",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "chain",
+                    "description": "fine gold chain set with a fire opal",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 2500
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "painting",
+            "description": "old masterpiece painting",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "painting",
+                    "description": "old masterpiece painting",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 2500
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "mantle",
+            "description": "embroidered silk and velvet mantle set with numerous moonstones",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "mantle",
+                    "description": "embroidered silk and velvet mantle set with numerous moonstones",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 2500
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "bracelet",
+            "description": "platinum bracelet set with a sapphire",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "bracelet",
+                    "description": "platinum bracelet set with a sapphire",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 2500
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "glove",
+            "description": "embroidered glove set with jewel chips",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "glove",
+                    "description": "embroidered glove set with jewel chips",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 2500
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "anklet",
+            "description": "jeweled anklet",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "anklet",
+                    "description": "jeweled anklet",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 2500
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "box",
+            "description": "gold music box",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "box",
+                    "description": "gold music box",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 2500
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "circlet",
+            "description": "gold circlet set with four aquamarines",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "circlet",
+                    "description": "gold circlet set with four aquamarines",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 2500
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "eye",
+            "description": "eye patch with a mock eye set in blue sapphire and moonstone",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "eye",
+                    "description": "eye patch with a mock eye set in blue sapphire and moonstone",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 2500
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "necklace",
+            "description": "a necklace string of small pink pearls",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "necklace",
+                    "description": "a necklace string of small pink pearls",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 2500
+                }
+            ]
+        }
+    ]
+}

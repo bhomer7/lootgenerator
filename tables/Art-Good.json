@@ -1,0 +1,177 @@
+{
+    "id": "art750",
+    "name": "Good Art",
+    "description": "750 gp art objects",
+    "items": [
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "chalice",
+            "description": "silver chalice set with moonstones",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "chalice",
+                    "description": "silver chalice set with moonstones",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 750
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "sword",
+            "description": "silver-plated steel longsword with jet set in the hilt",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "sword",
+                    "description": "silver-plated steel longsword with jet set in the hilt",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 750
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "harp",
+            "description": "carved harp of exotic wood with ivory inlay and zircon gems",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "harp",
+                    "description": "carved harp of exotic wood with ivory inlay and zircon gems",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 750
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "idol",
+            "description": "small gold idol",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "idol",
+                    "description": "small gold idol",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 750
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "comb",
+            "description": "gold dragon comb set with red garnets as eyes",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "comb",
+                    "description": "gold dragon comb set with red garnets as eyes",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 750
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "cork",
+            "description": "bottle stopper cork embossed with gold leaf and set with amethysts",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "cork",
+                    "description": "bottle stopper cork embossed with gold leaf and set with amethysts",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 750
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "dagger",
+            "description": "ceremonial electrum dagger with a black pearl in the pommel",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "dagger",
+                    "description": "ceremonial electrum dagger with a black pearl in the pommel",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 750
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "brooch",
+            "description": "silver and gold brooch",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "brooch",
+                    "description": "silver and gold brooch",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 750
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "statue",
+            "description": "obsidian statuette with gold fittings and inlay",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "statue",
+                    "description": "obsidian statuette with gold fittings and inlay",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 750
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "mask",
+            "description": "painted gold war mask",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "mask",
+                    "description": "painted gold war mask",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 750
+                }
+            ]
+        }
+    ]
+}

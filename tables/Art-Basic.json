@@ -1,0 +1,177 @@
+{
+    "id": "art250",
+    "name": "Basic Art",
+    "description": "250 gp art objects",
+    "items": [
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "ring",
+            "description": "gold ring set with bloodstones",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "ring",
+                    "description": "gold ring set with bloodstones",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 250
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "statue",
+            "description": "carved ivory statuette",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "statue",
+                    "description": "carved ivory statuette",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 250
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "bracelet",
+            "description": "large gold bracelet",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "bracelet",
+                    "description": "large gold bracelet",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 250
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "necklace",
+            "description": "silver necklace with a gemstone pendant",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "necklace",
+                    "description": "silver necklace with a gemstone pendant",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 250
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "crown",
+            "description": "bronze crown",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "crown",
+                    "description": "bronze crown",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 250
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "robe",
+            "description": "silk robe with gold embroidery",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "robe",
+                    "description": "silk robe with gold embroidery",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 250
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "tapestry",
+            "description": "large well-made tapestry",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "tapestry",
+                    "description": "large well-made tapestry",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 250
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "mug",
+            "description": "brass mug with jade inlay",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "mug",
+                    "description": "brass mug with jade inlay",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 250
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "figurines",
+            "description": "box of turquoise animal figurines",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "figurines",
+                    "description": "box of turquoise animal figurines",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 250
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "cage",
+            "description": "gold bird cage with electrum filigree",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "cage",
+                    "description": "gold bird cage with electrum filigree",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 250
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "id": "art25",
+    "name": "Novice Art",
+    "description": "25 gp art objects",
+    "items": [
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "ewer",
+            "description": "silver ewer",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "ewer",
+                    "description": "silver ewer",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "statue",
+            "description": "carved bone statuette",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "statue",
+                    "description": "carved bone statuette",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "bracelet",
+            "description": "small gold bracelet",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "bracelet",
+                    "description": "small gold bracelet",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "smock",
+            "description": "cloth-of-gold vestments",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "smock",
+                    "description": "cloth-of-gold vestments",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "mask",
+            "description": "black velvet mask stitched with silver thread",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "mask",
+                    "description": "black velvet mask stitched with silver thread",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "chalice",
+            "description": "copper chalice with silver filigree",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "chalice",
+                    "description": "copper chalice with silver filigree",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "dice",
+            "description": "pair of engraved bone dice",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "dice",
+                    "description": "pair of engraved bone dice",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "mirror",
+            "description": "small mirror set in a painted wooden frame",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "mirror",
+                    "description": "small mirror set in a painted wooden frame",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "handkerchief",
+            "description": "embroidered silk handkerchief",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "handkerchief",
+                    "description": "embroidered silk handkerchief",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "locket",
+            "description": "gold locket with a painted portrait inside",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "locket",
+                    "description": "gold locket with a painted portrait inside",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 25
+                }
+            ]
+        }
+    ]
+}

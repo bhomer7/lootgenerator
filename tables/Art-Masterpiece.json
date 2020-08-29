@@ -1,0 +1,143 @@
+{
+    "id": "art7500",
+    "name": "Masterpiece Art",
+    "description": "7500 gp art objects",
+    "items": [
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "crown",
+            "description": "jeweled gold crown",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "crown",
+                    "description": "jeweled gold crown",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 7500
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "ring",
+            "description": "jeweled platinum ring",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "ring",
+                    "description": "jeweled platinum ring",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 7500
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "statue",
+            "description": "small gold statuette set with rubies",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "statue",
+                    "description": "small gold statuette set with rubies",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 7500
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "cup",
+            "description": "gold cup set with emeralds",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "cup",
+                    "description": "gold cup set with emeralds",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 7500
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "box",
+            "description": "gold jewelry box with platinum filigree",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "box",
+                    "description": "gold jewelry box with platinum filigree",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 7500
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "sarcophagus",
+            "description": "painted gold child's sarcophagus",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "sarcophagus",
+                    "description": "painted gold child's sarcophagus",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 7500
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "board",
+            "description": "jade game board with sold gold playing pieces",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "board",
+                    "description": "jade game board with sold gold playing pieces",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 7500
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "horn",
+            "description": "bejeweled ivory drinking horn with gold filigree",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "horn",
+                    "description": "bejeweled ivory drinking horn with gold filigree",
+                    "category": "currency",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 7500
+                }
+            ]
+        }
+    ]
+}
