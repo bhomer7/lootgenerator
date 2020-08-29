@@ -4,19 +4,19 @@
 	"description": "tableDescription",
 	"items": [
 		{
-			"weight": 0, //weight of this entry in the selection roll
-			"amount": "d6", //amount of this entry using either dice or range syntax
+			"weight": 0,
+			"amount": "d6",
 			"name": "binName",
 			"description": "binDescription",
 			"items": [
 				{
-					"amount": "2-4", //amount of this item using either dice or range syntax
+					"amount": "2-4",
 					"name": "itemName",
 					"description": "itemDescription",
 					"category": "lootCategory",
-					"mass": 1, //weight in pounds
-					"volume": 1, //volume in cups
-					"value": 10 //value in gp
+					"mass": 1,
+					"volume": 1,
+					"value": 10
 				}
 			]
 		}
