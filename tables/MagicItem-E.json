@@ -1,0 +1,126 @@
+{
+    "id": "magicE",
+    "name": "Magic Item Table E",
+    "description": "",
+    "items": [
+        {
+            "weight": 30,
+            "amount": "1",
+            "name": "spell scroll - eighth",
+            "description": "spell scroll - eighth",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "spell scroll - eighth",
+                    "description": "spell scroll - eighth",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 25,
+            "amount": "1",
+            "name": "potion of storm giant strength",
+            "description": "potion of storm giant strength",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of storm giant strength",
+                    "description": "potion of storm giant strength",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 15,
+            "amount": "1",
+            "name": "potion of supreme healing",
+            "description": "potion of supreme healing",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of supreme healing",
+                    "description": "potion of supreme healing",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 15,
+            "amount": "1",
+            "name": "spell scroll - ninth",
+            "description": "spell scroll - ninth",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "spell scroll - ninth",
+                    "description": "spell scroll - ninth",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 8,
+            "amount": "1",
+            "name": "universal solvent",
+            "description": "universal solvent",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "universal solvent",
+                    "description": "universal solvent",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "arrow of slaying",
+            "description": "arrow of slaying",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "arrow of slaying",
+                    "description": "arrow of slaying",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "sovereign glue",
+            "description": "sovereign glue",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "sovereign glue",
+                    "description": "sovereign glue",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        }
+    ]
+}

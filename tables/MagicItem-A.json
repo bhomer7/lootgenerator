@@ -1,0 +1,143 @@
+{
+    "id": "magicA",
+    "name": "Magic Item Table A",
+    "description": "Common consumable magic items",
+    "items": [
+        {
+            "weight": 50,
+            "amount": "1",
+            "name": "potion of healing",
+            "description": "potion of healing",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of healing",
+                    "description": "potion of healing",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 10,
+            "amount": "1",
+            "name": "spell scroll - cantrip",
+            "description": "spell scroll - cantrip",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "spell scroll - cantrip",
+                    "description": "spell scroll - cantrip",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 10,
+            "amount": "1",
+            "name": "potion of climbing",
+            "description": "potion of climbing",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of climbing",
+                    "description": "potion of climbing",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 20,
+            "amount": "1",
+            "name": "spell scroll - first",
+            "description": "spell scroll - first",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "spell scroll - first",
+                    "description": "spell scroll - first",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 4,
+            "amount": "1",
+            "name": "spell scroll - second",
+            "description": "spell scroll - second",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "spell scroll - second",
+                    "description": "spell scroll - second",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 4,
+            "amount": "1",
+            "name": "potion of greater healing",
+            "description": "potion of greater healing",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of greater healing",
+                    "description": "potion of greater healing",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "bag of holding",
+            "description": "bag of holding",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "bag of holding",
+                    "description": "bag of holding",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "driftglobe",
+            "description": "driftglobe",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "driftglobe",
+                    "description": "driftglobe",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        }
+    ]
+}

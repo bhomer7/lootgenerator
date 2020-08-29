@@ -1,0 +1,602 @@
+{
+    "id": "magicB",
+    "name": "Magic Item Table B",
+    "description": "Common magic items",
+    "items": [
+        {
+            "weight": 15,
+            "amount": "1",
+            "name": "potion of greater healing",
+            "description": "potion of greater healing",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of greater healing",
+                    "description": "potion of greater healing",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 7,
+            "amount": "1",
+            "name": "potion of fire breath",
+            "description": "potion of fire breath",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of fire breath",
+                    "description": "potion of fire breath",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 7,
+            "amount": "1",
+            "name": "potion of resistance",
+            "description": "potion of resistance",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of resistance",
+                    "description": "potion of resistance",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "ammunition - +1",
+            "description": "ammunition - +1",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "ammunition - +1",
+                    "description": "ammunition - +1",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "potion of animal friendship",
+            "description": "potion of animal friendship",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of animal friendship",
+                    "description": "potion of animal friendship",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "potion of hill giant strength",
+            "description": "potion of hill giant strength",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of hill giant strength",
+                    "description": "potion of hill giant strength",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "potion of growth",
+            "description": "potion of growth",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of growth",
+                    "description": "potion of growth",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "potion of water breathing",
+            "description": "potion of water breathing",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of water breathing",
+                    "description": "potion of water breathing",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "spell scroll - second",
+            "description": "spell scroll - second",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "spell scroll - second",
+                    "description": "spell scroll - second",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "spell scroll - third",
+            "description": "spell scroll - third",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "spell scroll - third",
+                    "description": "spell scroll - third",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 3,
+            "amount": "1",
+            "name": "bag of holding",
+            "description": "bag of holding",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "bag of holding",
+                    "description": "bag of holding",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 3,
+            "amount": "1",
+            "name": "keoghtom's ointment",
+            "description": "keoghtom's ointment",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "keoghtom's ointment",
+                    "description": "keoghtom's ointment",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 3,
+            "amount": "1",
+            "name": "oil of slipperiness",
+            "description": "oil of slipperiness",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "oil of slipperiness",
+                    "description": "oil of slipperiness",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "dust of disappearance",
+            "description": "dust of disappearance",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "dust of disappearance",
+                    "description": "dust of disappearance",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "dust of dryness",
+            "description": "dust of dryness",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "dust of dryness",
+                    "description": "dust of dryness",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "dust of sneezing and choking",
+            "description": "dust of sneezing and choking",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "dust of sneezing and choking",
+                    "description": "dust of sneezing and choking",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "elemental gem",
+            "description": "elemental gem",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "elemental gem",
+                    "description": "elemental gem",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "philter of love",
+            "description": "philter of love",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "philter of love",
+                    "description": "philter of love",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "alchemy jug",
+            "description": "alchemy jug",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "alchemy jug",
+                    "description": "alchemy jug",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "cap of water breathing",
+            "description": "cap of water breathing",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "cap of water breathing",
+                    "description": "cap of water breathing",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "cloak of the manta ray",
+            "description": "cloak of the manta ray",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "cloak of the manta ray",
+                    "description": "cloak of the manta ray",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "driftglobe",
+            "description": "driftglobe",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "driftglobe",
+                    "description": "driftglobe",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "goggles of night",
+            "description": "goggles of night",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "goggles of night",
+                    "description": "goggles of night",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "helm of comprehending languages",
+            "description": "helm of comprehending languages",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "helm of comprehending languages",
+                    "description": "helm of comprehending languages",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "immovable rod",
+            "description": "immovable rod",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "immovable rod",
+                    "description": "immovable rod",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "lantern of revealing",
+            "description": "lantern of revealing",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "lantern of revealing",
+                    "description": "lantern of revealing",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "mariner's armor",
+            "description": "mariner's armor",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "mariner's armor",
+                    "description": "mariner's armor",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "mithral armor",
+            "description": "mithral armor",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "mithral armor",
+                    "description": "mithral armor",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "potion of poison",
+            "description": "potion of poison",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of poison",
+                    "description": "potion of poison",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "ring of swimming",
+            "description": "ring of swimming",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "ring of swimming",
+                    "description": "ring of swimming",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "robe of useful items",
+            "description": "robe of useful items",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "robe of useful items",
+                    "description": "robe of useful items",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "rope of climbing",
+            "description": "rope of climbing",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "rope of climbing",
+                    "description": "rope of climbing",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "saddle of the cavalier",
+            "description": "saddle of the cavalier",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "saddle of the cavalier",
+                    "description": "saddle of the cavalier",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "wand of magic detection",
+            "description": "wand of magic detection",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "wand of magic detection",
+                    "description": "wand of magic detection",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "wand of secrets",
+            "description": "wand of secrets",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "wand of secrets",
+                    "description": "wand of secrets",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        }
+    ]
+}

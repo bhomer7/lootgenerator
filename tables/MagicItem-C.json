@@ -1,0 +1,483 @@
+{
+    "id": "magicC",
+    "name": "Magic Item Table C",
+    "description": "",
+    "items": [
+        {
+            "weight": 15,
+            "amount": "1",
+            "name": "potion of superior healing",
+            "description": "potion of superior healing",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of superior healing",
+                    "description": "potion of superior healing",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 7,
+            "amount": "1",
+            "name": "spell scroll - fourth",
+            "description": "spell scroll - fourth",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "spell scroll - fourth",
+                    "description": "spell scroll - fourth",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "ammunition - +2",
+            "description": "ammunition - +2",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "ammunition - +2",
+                    "description": "ammunition - +2",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "potion of clairvoyance",
+            "description": "potion of clairvoyance",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of clairvoyance",
+                    "description": "potion of clairvoyance",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "potion of diminution",
+            "description": "potion of diminution",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of diminution",
+                    "description": "potion of diminution",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "potion of gaseous form",
+            "description": "potion of gaseous form",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of gaseous form",
+                    "description": "potion of gaseous form",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "potion of frost giant strength",
+            "description": "potion of frost giant strength",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of frost giant strength",
+                    "description": "potion of frost giant strength",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "potion of stone giant strength",
+            "description": "potion of stone giant strength",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of stone giant strength",
+                    "description": "potion of stone giant strength",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "potion of heroism",
+            "description": "potion of heroism",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of heroism",
+                    "description": "potion of heroism",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "potion of invulnerability",
+            "description": "potion of invulnerability",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of invulnerability",
+                    "description": "potion of invulnerability",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "potion of mind reading",
+            "description": "potion of mind reading",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of mind reading",
+                    "description": "potion of mind reading",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "spell scroll - fifth",
+            "description": "spell scroll - fifth",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "spell scroll - fifth",
+                    "description": "spell scroll - fifth",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 3,
+            "amount": "1",
+            "name": "elixir of health",
+            "description": "elixir of health",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "elixir of health",
+                    "description": "elixir of health",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 3,
+            "amount": "1",
+            "name": "oil of etheralness",
+            "description": "oil of etheralness",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "oil of etheralness",
+                    "description": "oil of etheralness",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 3,
+            "amount": "1",
+            "name": "potion of fire giant strength",
+            "description": "potion of fire giant strength",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of fire giant strength",
+                    "description": "potion of fire giant strength",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 3,
+            "amount": "1",
+            "name": "quaal's feather token",
+            "description": "quaal's feather token",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "quaal's feather token",
+                    "description": "quaal's feather token",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 3,
+            "amount": "1",
+            "name": "scroll of protection",
+            "description": "scroll of protection",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "scroll of protection",
+                    "description": "scroll of protection",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "bag of beans",
+            "description": "bag of beans",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "bag of beans",
+                    "description": "bag of beans",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "bead of force",
+            "description": "bead of force",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "bead of force",
+                    "description": "bead of force",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "chime of opening",
+            "description": "chime of opening",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "chime of opening",
+                    "description": "chime of opening",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "decanter of endless water",
+            "description": "decanter of endless water",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "decanter of endless water",
+                    "description": "decanter of endless water",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "eyes of minute seeing",
+            "description": "eyes of minute seeing",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "eyes of minute seeing",
+                    "description": "eyes of minute seeing",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "folding boat",
+            "description": "folding boat",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "folding boat",
+                    "description": "folding boat",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "heward's handy haversack",
+            "description": "heward's handy haversack",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "heward's handy haversack",
+                    "description": "heward's handy haversack",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "horseshoes of speed",
+            "description": "horseshoes of speed",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "horseshoes of speed",
+                    "description": "horseshoes of speed",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "necklace of fireballs",
+            "description": "necklace of fireballs",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "necklace of fireballs",
+                    "description": "necklace of fireballs",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "periapt of health",
+            "description": "periapt of health",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "periapt of health",
+                    "description": "periapt of health",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "sending stones",
+            "description": "sending stones",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "sending stones",
+                    "description": "sending stones",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "id": "magicG1",
+    "name": "Magic Item Table G1",
+    "description": "types of figurines of wondrous power",
+    "items": [
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "bronze griffon",
+            "description": "bronze griffon",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "bronze griffon",
+                    "description": "bronze griffon",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "ebony fly",
+            "description": "ebony fly",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "ebony fly",
+                    "description": "ebony fly",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "golden lions",
+            "description": "golden lions",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "golden lions",
+                    "description": "golden lions",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "ivory goats",
+            "description": "ivory goats",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "ivory goats",
+                    "description": "ivory goats",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "marble elephant",
+            "description": "marble elephant",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "marble elephant",
+                    "description": "marble elephant",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "onyx dog",
+            "description": "onyx dog",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "onyx dog",
+                    "description": "onyx dog",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "serpentine owl",
+            "description": "serpentine owl",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "serpentine owl",
+                    "description": "serpentine owl",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        }
+    ]
+}

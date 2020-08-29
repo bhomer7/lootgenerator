@@ -1,0 +1,126 @@
+{
+    "id": "magicI1",
+    "name": "Magic Item Table I1",
+    "description": "types of magic armor",
+    "items": [
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "half plate - +2",
+            "description": "half plate - +2",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "half plate - +2",
+                    "description": "half plate - +2",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "plate - +2",
+            "description": "plate - +2",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "plate - +2",
+                    "description": "plate - +2",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "studded leather - +3",
+            "description": "studded leather - +3",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "studded leather - +3",
+                    "description": "studded leather - +3",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "breastplate - +3",
+            "description": "breastplate - +3",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "breastplate - +3",
+                    "description": "breastplate - +3",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "splint - +3",
+            "description": "splint - +3",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "splint - +3",
+                    "description": "splint - +3",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "half plate - +3",
+            "description": "half plate - +3",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "half plate - +3",
+                    "description": "half plate - +3",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "plate - +3",
+            "description": "plate - +3",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "plate - +3",
+                    "description": "plate - +3",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        }
+    ]
+}

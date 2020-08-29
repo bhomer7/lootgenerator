@@ -1,0 +1,891 @@
+{
+    "id": "magicI",
+    "name": "Magic Item Table I",
+    "description": "",
+    "items": [
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "defender",
+            "description": "defender",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "defender",
+                    "description": "defender",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "hammer of thunderbolts",
+            "description": "hammer of thunderbolts",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "hammer of thunderbolts",
+                    "description": "hammer of thunderbolts",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "luck blade",
+            "description": "luck blade",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "luck blade",
+                    "description": "luck blade",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "sword of answering",
+            "description": "sword of answering",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "sword of answering",
+                    "description": "sword of answering",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 3,
+            "amount": "1",
+            "name": "holy avenger",
+            "description": "holy avenger",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "holy avenger",
+                    "description": "holy avenger",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 3,
+            "amount": "1",
+            "name": "ring of djinni summoning",
+            "description": "ring of djinni summoning",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "ring of djinni summoning",
+                    "description": "ring of djinni summoning",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 3,
+            "amount": "1",
+            "name": "ring of invisibility",
+            "description": "ring of invisibility",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "ring of invisibility",
+                    "description": "ring of invisibility",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 3,
+            "amount": "1",
+            "name": "ring of spell turning",
+            "description": "ring of spell turning",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "ring of spell turning",
+                    "description": "ring of spell turning",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 3,
+            "amount": "1",
+            "name": "rod of lordly might",
+            "description": "rod of lordly might",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "rod of lordly might",
+                    "description": "rod of lordly might",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 3,
+            "amount": "1",
+            "name": "vorpal sword",
+            "description": "vorpal sword",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "vorpal sword",
+                    "description": "vorpal sword",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "belt of cloud giant strength",
+            "description": "belt of cloud giant strength",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "belt of cloud giant strength",
+                    "description": "belt of cloud giant strength",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "breastplate - +2",
+            "description": "breastplate - +2",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "breastplate - +2",
+                    "description": "breastplate - +2",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "chain mail - +3",
+            "description": "chain mail - +3",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "chain mail - +3",
+                    "description": "chain mail - +3",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "chain shirt - +3",
+            "description": "chain shirt - +3",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "chain shirt - +3",
+                    "description": "chain shirt - +3",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "cloak of invisibility",
+            "description": "cloak of invisibility",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "cloak of invisibility",
+                    "description": "cloak of invisibility",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "crystal ball",
+            "description": "crystal ball - legendary",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "crystal ball",
+                    "description": "crystal ball - legendary",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "half plate - +1",
+            "description": "half plate - +1",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "half plate - +1",
+                    "description": "half plate - +1",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "iron flask",
+            "description": "iron flask",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "iron flask",
+                    "description": "iron flask",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "leather armor - +3",
+            "description": "leather armor - +3",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "leather armor - +3",
+                    "description": "leather armor - +3",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "plate armor - +1",
+            "description": "plate armor - +1",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "plate armor - +1",
+                    "description": "plate armor - +1",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "robe of the archmagi",
+            "description": "robe of the archmagi",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "robe of the archmagi",
+                    "description": "robe of the archmagi",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "rod of resurrection",
+            "description": "rod of resurrection",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "rod of resurrection",
+                    "description": "rod of resurrection",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "scale mail - +1",
+            "description": "scale mail - +1",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "scale mail - +1",
+                    "description": "scale mail - +1",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "scarab of protection",
+            "description": "scarab of protection",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "scarab of protection",
+                    "description": "scarab of protection",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "splint armor - +2",
+            "description": "splint armor - +2",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "splint armor - +2",
+                    "description": "splint armor - +2",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "studded leather armor - +2",
+            "description": "studded leather armor - +2",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "studded leather armor - +2",
+                    "description": "studded leather armor - +2",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "well of many worlds",
+            "description": "well of many worlds",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "well of many worlds",
+                    "description": "well of many worlds",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "magic armor",
+            "description": "magic armor",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "magic armor",
+                    "description": "magic armor",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "apparatus of kwalish",
+            "description": "apparatus of kwalish",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "apparatus of kwalish",
+                    "description": "apparatus of kwalish",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "armor of invulnerability",
+            "description": "armor of invulnerability",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "armor of invulnerability",
+                    "description": "armor of invulnerability",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "belt of storm giant strength",
+            "description": "belt of storm giant strength",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "belt of storm giant strength",
+                    "description": "belt of storm giant strength",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "cubic gate",
+            "description": "cubic gate",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "cubic gate",
+                    "description": "cubic gate",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "deck of many things",
+            "description": "deck of many things",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "deck of many things",
+                    "description": "deck of many things",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "efreeti chain",
+            "description": "efreeti chain",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "efreeti chain",
+                    "description": "efreeti chain",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "armor of resistance - half plate",
+            "description": "armor of resistance - half plate",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "armor of resistance - half plate",
+                    "description": "armor of resistance - half plate",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "horn of valhalla - iron",
+            "description": "horn of valhalla - iron",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "horn of valhalla - iron",
+                    "description": "horn of valhalla - iron",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "instrument of the bards - ollamh harp",
+            "description": "instrument of the bards - ollamh harp",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "instrument of the bards - ollamh harp",
+                    "description": "instrument of the bards - ollamh harp",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "ioun stone - greater absorption",
+            "description": "ioun stone - greater absorption",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "ioun stone - greater absorption",
+                    "description": "ioun stone - greater absorption",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "ioun stone - master",
+            "description": "ioun stone - master",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "ioun stone - master",
+                    "description": "ioun stone - master",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "ioun stone - regeneration",
+            "description": "ioun stone - regeneration",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "ioun stone - regeneration",
+                    "description": "ioun stone - regeneration",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "plate armor of etherealness",
+            "description": "plate armor of etherealness",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "plate armor of etherealness",
+                    "description": "plate armor of etherealness",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "plate armor of resistance",
+            "description": "plate armor of resistance",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "plate armor of resistance",
+                    "description": "plate armor of resistance",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "ring of air elemental command",
+            "description": "ring of air elemental command",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "ring of air elemental command",
+                    "description": "ring of air elemental command",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "ring of earth elemental command",
+            "description": "ring of earth elemental command",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "ring of earth elemental command",
+                    "description": "ring of earth elemental command",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "ring of fire elemental command",
+            "description": "ring of fire elemental command",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "ring of fire elemental command",
+                    "description": "ring of fire elemental command",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "ring of three wishes",
+            "description": "ring of three wishes",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "ring of three wishes",
+                    "description": "ring of three wishes",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "ring of water elemental command",
+            "description": "ring of water elemental command",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "ring of water elemental command",
+                    "description": "ring of water elemental command",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "sphere of annihilation",
+            "description": "sphere of annihilation",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "sphere of annihilation",
+                    "description": "sphere of annihilation",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "talisman of pure good",
+            "description": "talisman of pure good",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "talisman of pure good",
+                    "description": "talisman of pure good",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "talisman of the sphere",
+            "description": "talisman of the sphere",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "talisman of the sphere",
+                    "description": "talisman of the sphere",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "talisman of ultimate evil",
+            "description": "talisman of ultimate evil",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "talisman of ultimate evil",
+                    "description": "talisman of ultimate evil",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "tome of the stilled tongue",
+            "description": "tome of the stilled tongue",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "tome of the stilled tongue",
+                    "description": "tome of the stilled tongue",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        }
+    ]
+}

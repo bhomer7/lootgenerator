@@ -1,0 +1,279 @@
+{
+    "id": "magicD",
+    "name": "Magic Item Table D",
+    "description": "",
+    "items": [
+        {
+            "weight": 20,
+            "amount": "1",
+            "name": "potion of supreme healing",
+            "description": "potion of supreme healing",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of supreme healing",
+                    "description": "potion of supreme healing",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 10,
+            "amount": "1",
+            "name": "potion of invisibility",
+            "description": "potion of invisibility",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of invisibility",
+                    "description": "potion of invisibility",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 10,
+            "amount": "1",
+            "name": "potion of speed",
+            "description": "potion of speed",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of speed",
+                    "description": "potion of speed",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 10,
+            "amount": "1",
+            "name": "spell scroll - sixth",
+            "description": "spell scroll - sixth",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "spell scroll - sixth",
+                    "description": "spell scroll - sixth",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 7,
+            "amount": "1",
+            "name": "spell scroll - seventh",
+            "description": "spell scroll - seventh",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "spell scroll - seventh",
+                    "description": "spell scroll - seventh",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "ammunition - +3",
+            "description": "ammunition - +3",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "ammunition - +3",
+                    "description": "ammunition - +3",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "oil of sharpness",
+            "description": "oil of sharpness",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "oil of sharpness",
+                    "description": "oil of sharpness",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "potion of flying",
+            "description": "potion of flying",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of flying",
+                    "description": "potion of flying",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "potion of cloud giant strength",
+            "description": "potion of cloud giant strength",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of cloud giant strength",
+                    "description": "potion of cloud giant strength",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "potion of longevity",
+            "description": "potion of longevity",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of longevity",
+                    "description": "potion of longevity",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "potion of vitality",
+            "description": "potion of vitality",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "potion of vitality",
+                    "description": "potion of vitality",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 5,
+            "amount": "1",
+            "name": "spell scroll - eighth",
+            "description": "spell scroll - eighth",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "spell scroll - eighth",
+                    "description": "spell scroll - eighth",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 3,
+            "amount": "1",
+            "name": "horseshoes of a zephyr",
+            "description": "horseshoes of a zephyr",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "horseshoes of a zephyr",
+                    "description": "horseshoes of a zephyr",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 3,
+            "amount": "1",
+            "name": "nolzur's marvelous pigments",
+            "description": "nolzur's marvelous pigments",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "nolzur's marvelous pigments",
+                    "description": "nolzur's marvelous pigments",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "bag of devouring",
+            "description": "bag of devouring",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "bag of devouring",
+                    "description": "bag of devouring",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "portable hole",
+            "description": "portable hole",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "portable hole",
+                    "description": "portable hole",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        }
+    ]
+}

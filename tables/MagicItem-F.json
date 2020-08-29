@@ -1,0 +1,1027 @@
+{
+    "id": "magicF",
+    "name": "Magic Item Table F",
+    "description": "",
+    "items": [
+        {
+            "weight": 15,
+            "amount": "1",
+            "name": "weapon - +1",
+            "description": "weapon - +1",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "weapon - +1",
+                    "description": "weapon - +1",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 3,
+            "amount": "1",
+            "name": "shield - +1",
+            "description": "shield - +1",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "shield - +1",
+                    "description": "shield - +1",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 3,
+            "amount": "1",
+            "name": "sentinel shield",
+            "description": "sentinel shield",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "sentinel shield",
+                    "description": "sentinel shield",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "amulet of proof against detection and location",
+            "description": "amulet of proof against detection and location",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "amulet of proof against detection and location",
+                    "description": "amulet of proof against detection and location",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "boots of elvenkind",
+            "description": "boots of elvenkind",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "boots of elvenkind",
+                    "description": "boots of elvenkind",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "boots of striding and springing",
+            "description": "boots of striding and springing",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "boots of striding and springing",
+                    "description": "boots of striding and springing",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "bracers of archery",
+            "description": "bracers of archery",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "bracers of archery",
+                    "description": "bracers of archery",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "brooch of shielding",
+            "description": "brooch of shielding",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "brooch of shielding",
+                    "description": "brooch of shielding",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "broom of flying",
+            "description": "broom of flying",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "broom of flying",
+                    "description": "broom of flying",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "cloak of elvenkind",
+            "description": "cloak of elvenkind",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "cloak of elvenkind",
+                    "description": "cloak of elvenkind",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "cloak of protection",
+            "description": "cloak of protection",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "cloak of protection",
+                    "description": "cloak of protection",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "gauntlets of ogre power",
+            "description": "gauntlets of ogre power",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "gauntlets of ogre power",
+                    "description": "gauntlets of ogre power",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "hat of disguise",
+            "description": "hat of disguise",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "hat of disguise",
+                    "description": "hat of disguise",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "javelin of lightning",
+            "description": "javelin of lightning",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "javelin of lightning",
+                    "description": "javelin of lightning",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "pearl of power",
+            "description": "pearl of power",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "pearl of power",
+                    "description": "pearl of power",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "rod of the pact keeper - +1",
+            "description": "rod of the pact keeper - +1",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "rod of the pact keeper - +1",
+                    "description": "rod of the pact keeper - +1",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "slippers of spider climbing",
+            "description": "slippers of spider climbing",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "slippers of spider climbing",
+                    "description": "slippers of spider climbing",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "staff of the adder",
+            "description": "staff of the adder",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "staff of the adder",
+                    "description": "staff of the adder",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "staff of the python",
+            "description": "staff of the python",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "staff of the python",
+                    "description": "staff of the python",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "sword of vengeance",
+            "description": "sword of vengeance",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "sword of vengeance",
+                    "description": "sword of vengeance",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "trident of fish command",
+            "description": "trident of fish command",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "trident of fish command",
+                    "description": "trident of fish command",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "wand of magic missiles",
+            "description": "wand of magic missiles",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "wand of magic missiles",
+                    "description": "wand of magic missiles",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "wand of the war mage - +1",
+            "description": "wand of the war mage - +1",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "wand of the war mage - +1",
+                    "description": "wand of the war mage - +1",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "wand of web",
+            "description": "wand of web",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "wand of web",
+                    "description": "wand of web",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 2,
+            "amount": "1",
+            "name": "weapon of warning",
+            "description": "weapon of warning",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "weapon of warning",
+                    "description": "weapon of warning",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "adamantine chain mail",
+            "description": "adamantine chain mail",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "adamantine chain mail",
+                    "description": "adamantine chain mail",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "adamantine chain shirt",
+            "description": "adamantine chain shirt",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "adamantine chain shirt",
+                    "description": "adamantine chain shirt",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "adamantine scale mail",
+            "description": "adamantine scale mail",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "adamantine scale mail",
+                    "description": "adamantine scale mail",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "bag of tricks - gray",
+            "description": "bag of tricks - gray",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "bag of tricks - gray",
+                    "description": "bag of tricks - gray",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "bag of tricks - rust",
+            "description": "bag of tricks - rust",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "bag of tricks - rust",
+                    "description": "bag of tricks - rust",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "bag of tricks - tan",
+            "description": "bag of tricks - tan",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "bag of tricks - tan",
+                    "description": "bag of tricks - tan",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "boots of the winterlands",
+            "description": "boots of the winterlands",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "boots of the winterlands",
+                    "description": "boots of the winterlands",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "circlet of blasting",
+            "description": "circlet of blasting",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "circlet of blasting",
+                    "description": "circlet of blasting",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "deck of illusions",
+            "description": "deck of illusions",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "deck of illusions",
+                    "description": "deck of illusions",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "eversmoking bottle",
+            "description": "eversmoking bottle",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "eversmoking bottle",
+                    "description": "eversmoking bottle",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "eyes of charming",
+            "description": "eyes of charming",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "eyes of charming",
+                    "description": "eyes of charming",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "eyes of the eagle",
+            "description": "eyes of the eagle",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "eyes of the eagle",
+                    "description": "eyes of the eagle",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "figurine of wondrous power - silver raven",
+            "description": "figurine of wondrous power - silver raven",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "figurine of wondrous power - silver raven",
+                    "description": "figurine of wondrous power - silver raven",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "gem of brightness",
+            "description": "gem of brightness",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "gem of brightness",
+                    "description": "gem of brightness",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "gloves of missile snaring",
+            "description": "gloves of missile snaring",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "gloves of missile snaring",
+                    "description": "gloves of missile snaring",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "gloves of swimming and climbing",
+            "description": "gloves of swimming and climbing",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "gloves of swimming and climbing",
+                    "description": "gloves of swimming and climbing",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "gloves of thievery",
+            "description": "gloves of thievery",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "gloves of thievery",
+                    "description": "gloves of thievery",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "headband of intellect",
+            "description": "headband of intellect",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "headband of intellect",
+                    "description": "headband of intellect",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "helm of telepathy",
+            "description": "helm of telepathy",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "helm of telepathy",
+                    "description": "helm of telepathy",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "instrument of the bards - doss lute",
+            "description": "instrument of the bards - doss lute",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "instrument of the bards - doss lute",
+                    "description": "instrument of the bards - doss lute",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "instrument of the bards - fochlucan bandore",
+            "description": "instrument of the bards - fochlucan bandore",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "instrument of the bards - fochlucan bandore",
+                    "description": "instrument of the bards - fochlucan bandore",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "instrument of the bards - mac-fuimidh cittern",
+            "description": "instrument of the bards - mac-fuimidh cittern",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "instrument of the bards - mac-fuimidh cittern",
+                    "description": "instrument of the bards - mac-fuimidh cittern",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "medallion of thoughts",
+            "description": "medallion of thoughts",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "medallion of thoughts",
+                    "description": "medallion of thoughts",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "necklace of adaptation",
+            "description": "necklace of adaptation",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "necklace of adaptation",
+                    "description": "necklace of adaptation",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "periapt of wound closure",
+            "description": "periapt of wound closure",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "periapt of wound closure",
+                    "description": "periapt of wound closure",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "pipes of haunting",
+            "description": "pipes of haunting",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "pipes of haunting",
+                    "description": "pipes of haunting",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "pipes of the sewers",
+            "description": "pipes of the sewers",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "pipes of the sewers",
+                    "description": "pipes of the sewers",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "ring of jumping",
+            "description": "ring of jumping",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "ring of jumping",
+                    "description": "ring of jumping",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "ring of mind shielding",
+            "description": "ring of mind shielding",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "ring of mind shielding",
+                    "description": "ring of mind shielding",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "ring of warmth",
+            "description": "ring of warmth",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "ring of warmth",
+                    "description": "ring of warmth",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "ring of water walking",
+            "description": "ring of water walking",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "ring of water walking",
+                    "description": "ring of water walking",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "quiver of ehlonna",
+            "description": "quiver of ehlonna",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "quiver of ehlonna",
+                    "description": "quiver of ehlonna",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "stone of good luck",
+            "description": "stone of good luck",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "stone of good luck",
+                    "description": "stone of good luck",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "wind fan",
+            "description": "wind fan",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "wind fan",
+                    "description": "wind fan",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "weight": 1,
+            "amount": "1",
+            "name": "winged boots",
+            "description": "winged boots",
+            "items": [
+                {
+                    "amount": "1",
+                    "name": "winged boots",
+                    "description": "winged boots",
+                    "category": "magical",
+                    "mass": 1,
+                    "volume": 1,
+                    "value": 0
+                }
+            ]
+        }
+    ]
+}
